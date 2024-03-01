@@ -11,8 +11,13 @@ config_version=5
 [application]
 
 config/name="Fish Market Breakout"
+run/main_scene="res://Level/level_0.tscn"
 config/features=PackedStringArray("4.2", "Forward Plus")
 config/icon="res://icon.svg"
+
+[dotnet]
+
+project/assembly_name="Fish Market Breakout"
 
 [filesystem]
 
