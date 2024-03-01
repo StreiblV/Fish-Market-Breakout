@@ -1,0 +1,5 @@
+[gd_scene load_steps=2 format=3 uid="uid://cva567rid7x7v"]
+
+[ext_resource type="PackedScene" uid="uid://dsn31nnl2t145" path="res://Assets/Models/CoolBox/coolbox_base.glb" id="1_crv8d"]
+
+[node name="coolbox_base" instance=ExtResource("1_crv8d")]
